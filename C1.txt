@@ -1,0 +1,9 @@
+Capítulo 1
+Estás no parque de estacionamento, olhas à tua volta e vês que há vários robots mas só dois parecem em condições para uma viagem longa.
+
+Examina-los a ambos.
+
+Se quiseres levar um robot cowboy, que não é rapido, mas é robusto e facilmente adaptável, vai para o 24.
+
+Se preferires um robot leve, muito rápido e fácil de manobrar, mas não muito próprio para combate, segue para o 47.
+

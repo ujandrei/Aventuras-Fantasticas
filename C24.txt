@@ -1,0 +1,17 @@
+Capítulo 24
+Este robot em forma de homem foi concebido para a guarda de dinossauros.
+
+Anda por terra e as suas armas para domar dinossauros selvagens não são tão poderosas como as dos robots de guerra.
+
+************ROBOT COWBOY************
+ARMADURA: 10
+BÓNUS DE COMBATE: 0
+VELOCIDADE = MÉDIA
+CARACTERISTICAS ESPECIAIS: NENHUMA
+
+************************************
+
+Agora tens de escolher um lugar para ir:
+Passa para o 70.
+
+Caso tenhas mudado de ideias e queiras levar o robot voador em vez deste, vai para o 47.

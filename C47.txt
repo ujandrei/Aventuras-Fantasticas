@@ -1,0 +1,22 @@
+Capítulo 47
+
+Este robot, o Dragão Voador Modelo D, parece um dragão voador gigante.
+
+A sua maior vantagem em combate é a velocidade.
+
+******DRAGÃO VOADOR MODELO D********
+ARMADURA: 5
+BÓNUS DE COMBATE: 0
+VELOCIDADE = Muito rápida
+
+CARACTERISTICAS ESPECIAIS: 
+PODE FUGIR DE QUALQUER OPONENTE, 
+MESMO QUE MUITO RÁPIDO DESDE QUE 
+LHE SEJA DADA A POSSIBILIDADE
+
+************************************
+
+Agora tens de escolher um lugar para ir:
+Passa para o 70.
+
+Caso tenhas mudado de ideias e queiras levar o robot voador em vez deste, vai para o 24.
